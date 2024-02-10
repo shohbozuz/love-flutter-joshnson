@@ -1,0 +1,210 @@
+{
+   "checksum": "b26b77ad2a425169b73ac105d7a0f0e1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13349291105520084",
+            "date_last_used": "0",
+            "guid": "3c360eb1-3d35-4b7a-b388-f4d585142ad9",
+            "id": "22",
+            "name": "Яндекс",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.ya.ru/?win=628&clid=2761548-132&from=dist_bookmark"
+         }, {
+            "date_added": "13349291105520126",
+            "date_last_used": "0",
+            "guid": "d72707a3-f92d-4870-92fb-6c83f123b094",
+            "id": "23",
+            "name": "Яндекс Маркет",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://market.yandex.ru/?from=dist_bookmarks&win=628&clid=2761568-132"
+         } ],
+         "date_added": "13351956286768143",
+         "date_last_used": "0",
+         "date_modified": "13349291105520126",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13342552079932370",
+            "date_last_used": "0",
+            "guid": "f7bc3d62-d5de-479b-b06e-db0b8917ea5c",
+            "id": "18",
+            "name": "Title",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://localhost:63342/shohjah/YTHUJ.html?_ijt=nqj4e8jgohror5f98fa1d7qive"
+         }, {
+            "date_added": "13342553018551969",
+            "date_last_used": "0",
+            "guid": "bd414560-0edb-42bc-b941-5303807ca3b5",
+            "id": "19",
+            "name": "shohjshon.uz",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://localhost:63342/shohjah/YTHUJ.html?_ijt=95atmr6sm8cg2kjknonvmc2ac2"
+         }, {
+            "date_added": "13342554451901711",
+            "date_last_used": "0",
+            "guid": "a5256c5d-a3bc-408a-ab69-1d801cce8fe3",
+            "id": "20",
+            "name": "shohjahon.uz",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://localhost:63342/shohjah/YTHUJ.html?_ijt=cbsp6vb26898p2m85si862gfm0"
+         }, {
+            "date_added": "13350391240326188",
+            "date_last_used": "0",
+            "guid": "0b6d9fba-1aaf-4eab-870f-41b8a29cee02",
+            "id": "21",
+            "name": "New Tab",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome://newtab/"
+         } ],
+         "date_added": "13351956286768147",
+         "date_last_used": "0",
+         "date_modified": "13350391240326188",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13290258509593652",
+            "date_last_used": "0",
+            "guid": "34bccb2c-d8d6-419a-ad12-746dc704f29b",
+            "id": "7",
+            "name": "Авиабилеты",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://avia.yandex.ru/?win=530&clid=2422904-13&utm_source=distribution&utm_medium=bookmark&utm_campaign=ru"
+         }, {
+            "date_added": "13290258509593672",
+            "date_last_used": "0",
+            "guid": "a206432d-3217-4721-a769-c4099fcde2ae",
+            "id": "8",
+            "name": "Яндекс",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.yandex.ru/?win=530&clid=2422904-13&from=dist_bookmark"
+         }, {
+            "date_added": "13295782878031779",
+            "date_last_used": "0",
+            "guid": "94e1e952-0dba-4d78-8049-6bc89156dae2",
+            "id": "9",
+            "name": "New Tab",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13281101830046884",
+            "date_last_used": "0",
+            "guid": "c3358aa9-fd9e-45f9-ab0e-0b6fe5c7cc3c",
+            "id": "10",
+            "name": "Web sayitimga o'tibsanda o, Endi lichkamga o'tasan.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "content://ir.ilmili.telegraph.provider/media/Telegram/Telegram%20Documents/1_4927297146098549316.html"
+         }, {
+            "date_added": "13310634746538300",
+            "date_last_used": "0",
+            "guid": "67aad8e3-a86e-4031-b4b7-d1946e1464f6",
+            "id": "11",
+            "name": "php - Using CSS in Laravel views? - Stack Overflow",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/13433683/using-css-in-laravel-views"
+         }, {
+            "date_added": "13319097002430693",
+            "date_last_used": "0",
+            "guid": "62140a69-29a9-49a5-ae5e-45421325291d",
+            "id": "12",
+            "name": "Signin Template · Bootstrap v5.3",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://localhost:3000/"
+         }, {
+            "date_added": "13337496197856039",
+            "date_last_used": "0",
+            "guid": "db450374-6a82-43e0-b3c7-aecb434bd8e2",
+            "id": "13",
+            "name": "ChatGPT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chat.openai.com/"
+         }, {
+            "date_added": "13342554835939712",
+            "date_last_used": "0",
+            "guid": "d1a22c92-940c-4872-a38a-4c838032a8e6",
+            "id": "14",
+            "name": "Shohjahon.uz",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://localhost:63342/shohjah/YTHUJ.html?_ijt=j85eh125v9mc1dqj66bmqncjuj"
+         }, {
+            "date_added": "13345826701184717",
+            "date_last_used": "0",
+            "guid": "c6ca731d-4982-4988-9d04-929fa860f62d",
+            "id": "15",
+            "name": "akhit rohit ne kese jadu ko bulaya - Google qidiruvi",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/search?q=akhit+rohit+ne+kese+jadu+ko+bulaya&client=ms-android-xiaomi-terr1-rso2&sca_esv=586607062&tbm=vid&prmd=vin&sxsrf=AM9HkKkODI0eWLJMDZvqn9yjG2oKoInJYA:1701353077906&source=lnms&sa=X&ved=2ahUKEwjKhOKO8uuCAxUIKxAIHcTGB-YQ_AUoAXoECAIQAQ&biw=393&bih=767&dpr=2.75"
+         }, {
+            "date_added": "13349291105520172",
+            "date_last_used": "0",
+            "guid": "d7910ff2-542f-4411-ac41-778985c0a3ac",
+            "id": "16",
+            "name": "Яндекс Маркет",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://market.yandex.ru/?from=dist_bookmarks&win=628&clid=2761568-132"
+         }, {
+            "date_added": "13348643653053615",
+            "date_last_used": "0",
+            "guid": "2af68383-93ee-4047-96b1-af1c78a4ea2a",
+            "id": "17",
+            "name": "Billing | Monica",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://monica.im/billing"
+         } ],
+         "date_added": "13351956286768149",
+         "date_last_used": "0",
+         "date_modified": "13349291105520172",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCDY0ZkaNAQAAEgAgASoYWEgwZmpTbWQ2M0VZbG9MVkpaeG0yZz09oAYHEqcBCBcSogEKHElMWU0vQkpMcVN4MzNnY3g5QnY1UWluYzFSaz0SJGQ3MjcwN2EzLWY5MmQtNDg3MC05MmZiLTZjODNmMTIzYjA5NBgAIAAoADDeuKz4zjE428Cs+M4xQNvArPjOMUocenZqM05NcVN0cElYZEl5L1hpa0VBRkFiVU5VPVoeIhx1YkdYdy9jQzNHdXVnbTdLbWVSYzN6bnFITzA9ZQAAAAASpwEIFhKiAQoceFlkZ0FUbzFESkJmUFBZdHk0Q24wRDhVSE5vPRIkM2MzNjBlYjEtM2QzNS00YjdhLWIzODgtZjRkNTg1MTQyYWQ5GAAgACgAMNu4rPjOMTi/wKz4zjFAv8Cs+M4xShxHamlRRUI2WDFxYVQ1SjBrV0tzOEhBMnNPcUE9Wh4iHHBGQ3pCMnhXa1RLN3hyNkd0djBYSU9ZWi9MRT1lAAAAABKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ3ZGU0ZGVlOS1mY2ViLTU4MjAtYjM5OC1kZjZiZTgyNmFiMWMYACAAKAAwopq964gwOKOdveuIMECjnb3riDBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqgBCBUSowEKHEJhZnRZbGdvbzN0K29sTHkyN3Q2eVUrZmVpbz0SJDBiNmQ5ZmJhLTFhYWYtNGVhYi04NzBmLTQxYjhhMjljZWUwMhgAIAAoADCymtam0zE46aHWptMxQOmh1qbTMUocRUlkdGJaQXE4S3haaGQ3dk5FSFZUWFdYMXhVPVofIh3oZ090SkpNMWF3cXJLMkJYM1BJaTF1RXpXOThrPWUAAAAAEqgBCBQSowEKHFA5akVUMURlWDRYRnFZTTh1M3FLRVBPa1Y3UT0SJGE1MjU2YzVkLWEzYmMtNDA4YS1hYjY5LTFkODAxY2NlOGZlMxgAIAAoADCy6Jiz1DE4tLuS5MkxQLS7kuTJMUocMGR3Z2NwcEI3aUY5c3RqbmMyUG1jUDBwMUNVPVofIh3QUWdJMVd3NWF4eUNiMWhublRnbzd4NjY3U0RjPWVTGLBjEqgBCBMSowEKHDU0d3pkeTJ3TXJYWVlhYmQrSVFVMUMzcG1vWT0SJGJkNDE0NTYwLTBlZGItNDJiYy1iOTQxLTUzMDM4MDdjYTNiNRgAIAAoADCx6Jiz1DE4mruS5MkxQJq7kuTJMUocUVIwSXp4cEpabThMeElXUTBiSkZKSzJJc3YwPVofIh2gN2hCelIzK1J4MHd6S01ZWjZURVFwWW10L1lNPWVTGLBjEqgBCBESowEKHHJIVHI3clNGYUxCUnRiSFR4S3dVUzZMTjlVZz0SJDJhZjY4MzgzLTkzZWUtNDA0Ny05NmIxLWFmMWM3OGE0ZWEyYRgAIAAoADCv6Jiz1DE467+s+M4xQOu/rPjOMUocZHRmWE8rTG45U0xIUmxGbDBWQjFrWlpybjNvPVofIh3/eWpHeXlEcTBzaVM2MGpUczlwaml5V1ZGSCs4PWUy9JHfEqgBCBASowEKHHJKQlEvOWgyd3B5OWJhbDFjUmMyTHI0YXkxdz0SJGQ3OTEwZmYyLTU0MmYtNDQxMS1hYzQxLTc3ODk4NWMwYTNhYxgAIAAoADDWuKz4zjE4msCs+M4xQJrArPjOMUocbmY3cXpWbFRMWG9WaWR0bHBncXdyT2dEM2lzPVofIh3/MGFsTzYzL3NuOUxpS1ZxNkFTdFBDdW9sS2o0PWUAAAAAEqgBCA0SowEKHEdONDRGcDBmMGRSaWVweUZTQThVU0loZEpHTT0SJGRiNDUwMzc0LTZhODItNDNlMC1iM2M3LWFlY2I0MzRiZDhlMhgAIAAoADCt6Jiz1DE4h7yS5MkxQIe8kuTJMUocdVQ5MXh5VDJoTUhHUlovazNwOXVUYnRsdC84PVofIh37cmVTR2NKVnF3MFRWRXZtZVF0eVNtSzdXRkJFPWVpGyLzEqgBCA4SowEKHE14YkI1L3d5VGF2TjdtdElMQlZXRjJYVUZMST0SJGQxYTIyYzkyLTk0MGMtNDg3Mi1hMzhhLTRjODM4MDMyYThlNhgAIAAoADCu6Jiz1DE47buS5MkxQO27kuTJMUocR2JvUG9NdUxkbTZEK0ZaTWFMOTd1Q29oU0FZPVofIh39dmF0ZFRFSlN1dHVKODhQVng1Z1hqWnlrNldJPWVTGLBjEqcBCBISogEKHENRSVR2TDJCaUJqWHJlaGl0SnVzYWVlbUhxQT0SJGY3YmMzZDYyLWQ1ZGUtNDc5Yi1iMDZlLWRiMGI4OTE3ZWE1YxgAIAAoADCw6Jiz1DE4/rqS5MkxQP66kuTJMUocYVhZRUx5OHJwSTJuUCtjaDBpNldCY2RPQ28wPVoeIhxBY3E3MWpaYXZnZkJSMndST2Mvb1FJVTkweVU9ZVMYsGMSqAEICRKjAQocbUtYOFdXLzNRSDdhUFUvL05QVEZvUzdxRlBRPRIkOTRlMWU5NTItMGRiYS00ZDc4LTgwNDktNmJjODkxNTZkYWUyGAAgACgAMNjA89LjMDijxvPS4zBAo8bz0uMwShxZVC9zZmgyVjRkQlo3Qmw0MVdNYXJJdjJMZmM9Wh8iHblhdjd1QXZUWUdmVlhWdzJVcTRRcmMzaGVtTkE9ZQAAAAASqAEIDBKjAQocVWowMWpob1k3WWJBZVVMNC9Gek52OFJnZm40PRIkNjIxNDBhNjktMjlhOS00OWE1LWFlNWUtNDU0MjEzMjUyOTFkGAAgACgAMLPomLPUMTiwx/PS4zBAsMfz0uMwShxuMTN3bEdhdEVKQnRNU3IyakRXRGV5cElHVmM9Wh8iHfcyRFFqZGFsVVBjRnhWRVVkR3pMcUNBNlA4WnM9ZbA6CL0SqAEICxKjAQocc1VvdXZ2Ym5EcUNQK054ZTRneTN6MnBFQmZFPRIkNjdhYWQ4ZTMtYTg2ZS00MDMxLWI0YjctZDE5NDZlMTQ2NGY2GAAgACgAMLTomLPUMTjyxvPS4zBA8sbz0uMwShwvZ3FYZzNPSzdSL2s2R24xWWZSWmUzMEZRaDg9Wh8iHe5xUFN1RkFiWkpabHBYWC83eDFqN3JvaGYzeEk9ZQ/MNBQSiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkYmZhMmFjNWMtMGYzMS01ZDU5LTk1MjAtZDQ0YzNhNzdjMWZlGAAgACgAMKKaveuIMDiynb3riDBAsp2964gwShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKnAQgHEqIBChwxSGdzVWEvNldJWWtUbCsrelFaOElreUZTOFU9EiQzNGJjY2IyYy1kOGQ2LTQxOWEtYWQxMi03NDZkYzcwNGYyOWIYACAAKAAw28Dz0uMwOJHH89LjMECRx/PS4zBKHGF5aTRHdmt2cGQvM1NCOWQvOWZ3YzNTNEFLaz1aHiIcSmNySm9TVTNzNVBsTVN2aC95MmV1eDA2UWwwPWUAAAAAEqgBCAoSowEKHCtTZjFLTmZYYVVpUjBweTg4ZDRRb1E2eWtTOD0SJGMzMzU4YWE5LWZkOWUtNDVmOS1hYjBlLTBiNmZlNWM3Y2MzYxgAIAAoADDXwPPS4zA4gcLz0uMwQIHC89LjMEocT3hVTkoxcjFLcWVzcTgxTXdKVVVqNEJFMFBVPVofIh3cL2szQ0loRFlkMVQ4ZDlxbHpORXV2ckNPYXN3PWUAAAAAEqcBCAgSogEKHEo3MjU5VlJJYzcvTERaUGUybEtFbmx6TzRsZz0SJGEyMDY0MzJkLTMyMTctNDcyMS1hNzY5LWM0MDk5ZmNkZTJhZRgAIAAoADDZwPPS4zA44sbz0uMwQOLG89LjMEocQ2J3eERmOUhKME9aTVduUDBabEZKZU9YUFBjPVoeIhxyWWRQL1lRODIzQkQ3TEpBdVJJZ2VERFZrQTQ9ZQAAAAASqAEIDxKjAQocWHkxdTdSK05SOERVMVdLVUxpNTl5UWJuWXdBPRIkYzZjYTczMWQtNDk4Mi00OTg4LTlkMDQtOTI5ZmE4NjBmNjJkGAAgACgAMLXomLPUMTjPu5LkyTFAz7uS5MkxShxFQnFUdk01UjF0UmVveWQ4VExaMVovVDdvdkE9Wh8iHf5Wc2VzSEcvQnF4dTF0Zzl6UXc1anVuSzIwa1U9ZX8HQfsSiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMDZhZjdlOGYtZTQ3OC01ZmUxLTllYjgtNjhiZjdmYjBkMmZiGAAgACgAMKKaveuIMDiQnr3riDBAkJ6964gwShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADAAOAA=",
+   "version": 1
+}

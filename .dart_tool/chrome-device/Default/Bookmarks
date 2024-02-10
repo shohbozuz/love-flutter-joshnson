@@ -1,0 +1,172 @@
+{
+   "checksum": "e521a2c3c48e3bfdf230a18235281be4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13349291105520084",
+            "date_last_used": "0",
+            "guid": "3c360eb1-3d35-4b7a-b388-f4d585142ad9",
+            "id": "22",
+            "name": "Яндекс",
+            "type": "url",
+            "url": "https://www.ya.ru/?win=628&clid=2761548-132&from=dist_bookmark"
+         }, {
+            "date_added": "13349291105520126",
+            "date_last_used": "0",
+            "guid": "d72707a3-f92d-4870-92fb-6c83f123b094",
+            "id": "23",
+            "name": "Яндекс Маркет",
+            "type": "url",
+            "url": "https://market.yandex.ru/?from=dist_bookmarks&win=628&clid=2761568-132"
+         } ],
+         "date_added": "13351956286768143",
+         "date_last_used": "0",
+         "date_modified": "13349291105520126",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13342552079932370",
+            "date_last_used": "0",
+            "guid": "f7bc3d62-d5de-479b-b06e-db0b8917ea5c",
+            "id": "18",
+            "name": "Title",
+            "type": "url",
+            "url": "http://localhost:63342/shohjah/YTHUJ.html?_ijt=nqj4e8jgohror5f98fa1d7qive"
+         }, {
+            "date_added": "13342553018551969",
+            "date_last_used": "0",
+            "guid": "bd414560-0edb-42bc-b941-5303807ca3b5",
+            "id": "19",
+            "name": "shohjshon.uz",
+            "type": "url",
+            "url": "http://localhost:63342/shohjah/YTHUJ.html?_ijt=95atmr6sm8cg2kjknonvmc2ac2"
+         }, {
+            "date_added": "13342554451901711",
+            "date_last_used": "0",
+            "guid": "a5256c5d-a3bc-408a-ab69-1d801cce8fe3",
+            "id": "20",
+            "name": "shohjahon.uz",
+            "type": "url",
+            "url": "http://localhost:63342/shohjah/YTHUJ.html?_ijt=cbsp6vb26898p2m85si862gfm0"
+         }, {
+            "date_added": "13350391240326188",
+            "date_last_used": "0",
+            "guid": "0b6d9fba-1aaf-4eab-870f-41b8a29cee02",
+            "id": "21",
+            "name": "New Tab",
+            "type": "url",
+            "url": "chrome://newtab/"
+         } ],
+         "date_added": "13351956286768147",
+         "date_last_used": "0",
+         "date_modified": "13350391240326188",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13290258509593652",
+            "date_last_used": "0",
+            "guid": "34bccb2c-d8d6-419a-ad12-746dc704f29b",
+            "id": "7",
+            "name": "Авиабилеты",
+            "type": "url",
+            "url": "https://avia.yandex.ru/?win=530&clid=2422904-13&utm_source=distribution&utm_medium=bookmark&utm_campaign=ru"
+         }, {
+            "date_added": "13290258509593672",
+            "date_last_used": "0",
+            "guid": "a206432d-3217-4721-a769-c4099fcde2ae",
+            "id": "8",
+            "name": "Яндекс",
+            "type": "url",
+            "url": "https://www.yandex.ru/?win=530&clid=2422904-13&from=dist_bookmark"
+         }, {
+            "date_added": "13295782878031779",
+            "date_last_used": "0",
+            "guid": "94e1e952-0dba-4d78-8049-6bc89156dae2",
+            "id": "9",
+            "name": "New Tab",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13281101830046884",
+            "date_last_used": "0",
+            "guid": "c3358aa9-fd9e-45f9-ab0e-0b6fe5c7cc3c",
+            "id": "10",
+            "name": "Web sayitimga o'tibsanda o, Endi lichkamga o'tasan.",
+            "type": "url",
+            "url": "content://ir.ilmili.telegraph.provider/media/Telegram/Telegram%20Documents/1_4927297146098549316.html"
+         }, {
+            "date_added": "13310634746538300",
+            "date_last_used": "0",
+            "guid": "67aad8e3-a86e-4031-b4b7-d1946e1464f6",
+            "id": "11",
+            "name": "php - Using CSS in Laravel views? - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/13433683/using-css-in-laravel-views"
+         }, {
+            "date_added": "13319097002430693",
+            "date_last_used": "0",
+            "guid": "62140a69-29a9-49a5-ae5e-45421325291d",
+            "id": "12",
+            "name": "Signin Template · Bootstrap v5.3",
+            "type": "url",
+            "url": "http://localhost:3000/"
+         }, {
+            "date_added": "13337496197856039",
+            "date_last_used": "0",
+            "guid": "db450374-6a82-43e0-b3c7-aecb434bd8e2",
+            "id": "13",
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chat.openai.com/"
+         }, {
+            "date_added": "13342554835939712",
+            "date_last_used": "0",
+            "guid": "d1a22c92-940c-4872-a38a-4c838032a8e6",
+            "id": "14",
+            "name": "Shohjahon.uz",
+            "type": "url",
+            "url": "http://localhost:63342/shohjah/YTHUJ.html?_ijt=j85eh125v9mc1dqj66bmqncjuj"
+         }, {
+            "date_added": "13345826701184717",
+            "date_last_used": "0",
+            "guid": "c6ca731d-4982-4988-9d04-929fa860f62d",
+            "id": "15",
+            "name": "akhit rohit ne kese jadu ko bulaya - Google qidiruvi",
+            "type": "url",
+            "url": "https://www.google.com/search?q=akhit+rohit+ne+kese+jadu+ko+bulaya&client=ms-android-xiaomi-terr1-rso2&sca_esv=586607062&tbm=vid&prmd=vin&sxsrf=AM9HkKkODI0eWLJMDZvqn9yjG2oKoInJYA:1701353077906&source=lnms&sa=X&ved=2ahUKEwjKhOKO8uuCAxUIKxAIHcTGB-YQ_AUoAXoECAIQAQ&biw=393&bih=767&dpr=2.75"
+         }, {
+            "date_added": "13349291105520172",
+            "date_last_used": "0",
+            "guid": "d7910ff2-542f-4411-ac41-778985c0a3ac",
+            "id": "16",
+            "name": "Яндекс Маркет",
+            "type": "url",
+            "url": "https://market.yandex.ru/?from=dist_bookmarks&win=628&clid=2761568-132"
+         }, {
+            "date_added": "13348643653053615",
+            "date_last_used": "0",
+            "guid": "2af68383-93ee-4047-96b1-af1c78a4ea2a",
+            "id": "17",
+            "name": "Billing | Monica",
+            "type": "url",
+            "url": "https://monica.im/billing"
+         } ],
+         "date_added": "13351956286768149",
+         "date_last_used": "0",
+         "date_modified": "13349291105520172",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
